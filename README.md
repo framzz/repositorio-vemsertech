@@ -10,9 +10,10 @@ Nesse módulo, criaremos uma conexão com um banco de dados PostgreSQL, com os d
 
 ### Requirements
 Os códigos foram desenvolvidos utilizando as seguintes configurações:
-    - Python 3.11
-    - pip 23.3.1
-    - PostgreSQL 16.0
+
+- Python 3.11
+- pip 23.3.1
+- PostgreSQL 16.0
 
 ### Executando projeto em um Virtual Enviroment (Windows):
 
